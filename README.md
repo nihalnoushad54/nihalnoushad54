@@ -76,7 +76,7 @@ Ask questions about any PDF and get context-aware answers from a **local LLM (Mi
 Real-time product detection with **gesture-based interaction** across 5 product categories.
 - Custom-trained **YOLOv8** model (640×480 input, 0.5 confidence threshold) combined with MediaPipe hand tracking
 - **Stack:** `YOLOv8` `MediaPipe` `OpenCV` `Python`
-- 🔗 [View repo](https://github.com/nihalnoushad54?tab=repositories) <!-- replace with the exact repo link -->
+- 🔗 [View repo](https://github.com/nihalnoushad54/AI-Based-Smart-Shopping-Assistant.git) <!-- replace with the exact repo link -->
 
 ### 🎣 Phishing Website Detection
 Classifies URLs as legitimate or malicious using engineered URL features and supervised learning.
