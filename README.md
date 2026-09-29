@@ -70,7 +70,7 @@ I'm an AI/ML engineer from Kerala, India, who builds practical AI systems: **RAG
 Ask questions about any PDF and get context-aware answers from a **local LLM (Mistral via Ollama)**, with no external API needed.
 - Document ingestion → text chunking → Hugging Face embeddings → FAISS similarity search → grounded answer generation
 - **Stack:** `LangChain` `FAISS` `Ollama` `Streamlit`
-- 🔗 [View repo](https://github.com/nihalnoushad54?tab=repositories) <!-- replace with the exact repo link -->
+- 🔗 [View repo](https://github.com/nihalnoushad54/RAG_Based_PDF_Question_Answering_System.git) <!-- replace with the exact repo link -->
 
 ### 🛒 AI-Based Smart Shopping Assistant
 Real-time product detection with **gesture-based interaction** across 5 product categories.
