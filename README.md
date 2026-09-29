@@ -82,7 +82,7 @@ Real-time product detection with **gesture-based interaction** across 5 product 
 Classifies URLs as legitimate or malicious using engineered URL features and supervised learning.
 - Flask REST API that **sends an automated email alert** when phishing is detected
 - **Stack:** `Scikit-learn` `XGBoost` `Flask`
-- 🔗 [View repo](https://github.com/nihalnoushad54?tab=repositories) <!-- replace with the exact repo link -->
+- 🔗 [View repo](https://github.com/nihalnoushad54/Phishing-website-detection-using-machine-learning-and-real-time-E-mail-notificaation-system.git) <!-- replace with the exact repo link -->
 
 ---
 
