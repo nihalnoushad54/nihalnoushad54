@@ -1,109 +1,222 @@
-[README_1.md](https://github.com/user-attachments/files/32794399/README_1.md)
-<h1 align="center">Hi, I'm Muhammed Nihal KP 👋</h1>
-<h3 align="center">AI/ML Engineer · RAG & LLM Applications · Computer Vision</h3>
+[README_2.md](https://github.com/user-attachments/files/32839075/README_2.md)
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nihalkp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nihalnoushad76@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-2ea44f?style=for-the-badge" />
+  <a href="https://github.com/DeepakAmalWinstarJ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/techwin.in" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:deepakamalwinstarj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🔴 About Me</h2>
 
-I'm an AI/ML engineer from Kerala, India, who builds practical AI systems: **RAG pipelines, LLM apps, vector search, and real-time computer vision**. I recently completed a Data Science internship at Luminar Technolab, Kochi, where I built semantic retrieval workflows with FAISS and Hugging Face embeddings.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+</p>
 
-- 🔭 Building: local-LLM and RAG applications
-- 🌱 Exploring: deeper LLM tooling, deployment and cloud (AWS, Docker)
-- 🎓 B.Tech, Computer Science & Business Systems, JCT College of Engineering and Technology
-- 📫 Reach me: nihalnoushad76@gmail.com
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+</p>
 
----
+<p align="center">
+  Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
+  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
+</p>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+</p>
 
-**Languages & Backend**
+<p align="center">
+  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
+  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**ML / Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Generative AI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-
-**Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-**Tools & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📄 PDF Question-Answering System using RAG
-Ask questions about any PDF and get context-aware answers from a **local LLM (Mistral via Ollama)**, with no external API needed.
-- Document ingestion → text chunking → Hugging Face embeddings → FAISS similarity search → grounded answer generation
-- **Stack:** `LangChain` `FAISS` `Ollama` `Streamlit`
-- 🔗 [View repo](https://github.com/nihalnoushad54/RAG_Based_PDF_Question_Answering_System.git) <!-- replace with the exact repo link -->
-
-### 🛒 AI-Based Smart Shopping Assistant
-Real-time product detection with **gesture-based interaction** across 5 product categories.
-- Custom-trained **YOLOv8** model (640×480 input, 0.5 confidence threshold) combined with MediaPipe hand tracking
-- **Stack:** `YOLOv8` `MediaPipe` `OpenCV` `Python`
-- 🔗 [View repo](https://github.com/nihalnoushad54/AI-Based-Smart-Shopping-Assistant.git) <!-- replace with the exact repo link -->
-
-### 🎣 Phishing Website Detection
-Classifies URLs as legitimate or malicious using engineered URL features and supervised learning.
-- Flask REST API that **sends an automated email alert** when phishing is detected
-- **Stack:** `Scikit-learn` `XGBoost` `Flask`
-- 🔗 [View repo](https://github.com/nihalnoushad54/Phishing-website-detection-using-machine-learning-and-real-time-E-mail-notificaation-system.git) <!-- replace with the exact repo link -->
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔭 Flagship Project</h4>
+  <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT & Anomaly Detection</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>📱 Tech Creator</h4>
+  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience
+<h2 align="center">🔴 Featured Project Spotlight</h2>
 
-**Data Science Intern**, Luminar Technolab, Kochi *(Jul 2025 – Apr 2026)*
-- Built RAG-based data pipelines with FAISS and Hugging Face embeddings for semantic retrieval
-- Designed AI workflows for document processing and LLM-based response generation
-- Performed data cleaning, EDA and ML model development with Pandas, NumPy and Scikit-learn
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🔬 OpenCore Mastitis Monitor</h3>
+  <p><i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i></p>
+  <br />
+  <p>
+    <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Certifications
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-- Data Science Certification, NACTET
-- Python for Data Science, IBM
-- Introduction to Data Science, IBM
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  </a>
+</p>
+
+<p align="center"><b>Frontend & Mobile Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
+  </a>
+</p>
+
+<p align="center"><b>Backend, Cloud & Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+  </a>
+</p>
+
+<p align="center"><b>AI, Data Science, Hardware & DevOps</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
+</p>
 
 ---
 
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakamalwinstarj&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+</p>
 
 ---
 
-<p align="center"><i>Open to AI/ML Engineer opportunities. Let's build something useful. ✨</i></p>
+<h2 align="center">⚡ Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.instagram.com/techwin.in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  <br />
+  <sub><b>Articles &amp; Tech Guides</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:deepakamalwinstarj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
